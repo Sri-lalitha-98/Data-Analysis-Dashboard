@@ -103,7 +103,7 @@ growth.
 
 ## ✅ Final Conclusion
 
-> To grow Blinkit's sales in 2023–2024, 
+> To grow Blinkit's sales, 
 > here are the key focus areas:
 
 **1. 🏪 Expand Supermarket Type1 in Tier 3 Cities**
