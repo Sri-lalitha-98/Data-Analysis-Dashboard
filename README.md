@@ -19,3 +19,22 @@ growth.
 | 📊 **Records** | 8,523+ items |
 | 🗂️ **Fields** | Item Type, Fat Content, Outlet Size, Outlet Type, Outlet Location (Tier), Establishment Year, Sales, Rating, Item Visibility |
 
+## ❓ Questions (KPIs)
+
+- 📊 What is the total revenue, average sales, 
+  and average customer rating?
+- 🛍️ Which item types generate the highest sales?
+- 🧈 Do customers prefer Low Fat or Regular products?
+- 🏪 Which outlet type contributes the most 
+  to total sales?
+- 📐 How does outlet size impact total revenue?
+- 📍 Which city tier (Tier 1/2/3) generates 
+  maximum sales?
+- 📈 How has outlet establishment year affected 
+  sales over time?
+- 👁️ What is the item visibility vs sales 
+  relationship?
+- ✅ What percentage of orders were successfully 
+  delivered?
+
+
