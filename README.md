@@ -37,9 +37,35 @@ growth.
 - ✅ What percentage of orders were successfully 
   delivered?
 
-  ## 📊 Dashboard Interaction
+ ## 📊 Dashboard Interaction
 
-<a href="https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
+ <a href="https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
+
+ ## ⚙️ Process
+
+- ✅ Verified dataset for missing values, duplicates, 
+  and anomalies — cleaned accordingly
+
+- 🔄 Ensured data consistency in data types, 
+  formats, and categorical values
+
+- 📐 Built calculated measures and KPIs using 
+  **DAX** (Total Sales, Avg Sales, Avg Rating, 
+  Item Count)
+
+- 📊 Created individual visuals for each KPI —
+  donut charts, bar charts, line charts, 
+  and matrix tables
+
+- 🎛️ Merged all visuals into a single dynamic 
+  dashboard with slicers for **Outlet Location Type**, 
+  **Outlet Size**, and **Item Type**
+
+  ## 📊 Dashboard
+  
+
+
+
 
 
 
