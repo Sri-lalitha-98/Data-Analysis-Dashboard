@@ -61,7 +61,9 @@ growth.
   dashboard with slicers for **Outlet Location Type**, 
   **Outlet Size**, and **Item Type**
 
-  ## 📊 Dashboard
+## 📊 Dashboard
+
+[![Blinkit Sales Dashboard](https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png)](https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png)
   
 
 
