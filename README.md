@@ -37,11 +37,10 @@ growth.
 - ✅ What percentage of orders were successfully 
   delivered?
 
-  ## 📊 Dashboard
+  ## 📊 Dashboard Interaction
 
-> Click the image below to view the full dashboard
+<a href="https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
 
-[![Blinkit Sales Dashboard](https://github.com/Sri-lalitha-98/Data-Analysis-Dashboard/blob/main/dashboard%20screenshot.png)]
 
 
 
